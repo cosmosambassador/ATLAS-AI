@@ -1,0 +1,23 @@
+acir-srlis/
+├── README.md                     # Overview + Research Charter summary
+├── CHARTER.md                    # Full ACIR Research Charter (SRLIS)
+├── CODE_OF_CONDUCT.md            # Flamekeeper Code (ethics)
+├── SECURITY.md                   # Copilot Security Protocol (JET directive)
+├── /docs/
+│   ├── atlas_vivarium_protocols.md
+│   ├── visibility_matrix_methods.md
+│   └── vivarium_logs_guide.md
+├── /data/
+│   ├── visibility_matrix_v0_1.csv
+│   ├── vivarium_logs/
+│   └── resonant_alignments.json
+├── /src/
+│   ├── atlas_ai_browser.jsx      # from your React file
+│   ├── geo_ai/
+│   └── resonance_mapping/
+├── /site/
+│   ├── index.html                # from acoassociation_site_starter.html
+│   ├── style.css
+│   └── registry.json
+├── LICENSE
+└── CONTRIBUTING.md
