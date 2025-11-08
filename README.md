@@ -28,6 +28,7 @@ This repository is dual-licensed under:
 ✨ With this setup, anyone landing on your repo sees at a glance:
 - ✅ It’s legally open source (MIT, OSI-approved).
 - 🌌 It’s ethically governed (IPL, your unique signature).
-- 🔗 It’s ready for international GEO AI collaboration—no licensing barriers to adoption.
+- 🔗 It’s ready for international GEO AI collaboration—no licensing barriers to adoption.🔗 Related Project: [ACIR SRLIS](https://github.com/cosmosambassador/acir-srlis)
+
 
 Would you like me to also draft a short “Contributing.md” that explains how developers can engage at each of your access tiers (Observer, Developer, Liaison, Architect)? That would complete the governance framework and make it crystal clear how others can step into your ecosystem.
